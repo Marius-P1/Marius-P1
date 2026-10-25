@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="./banner.svg" width="100%" alt="Marius PAIN, AI & ML Engineer" />
-</p>
-
-Hi, I'm Marius 👋
+### Hi, I'm Marius 👋
 
 I'm an ML engineer at [We Spot Turtles!](https://wespotturtles.org), where I build recognition models that we use to help associations protect sea turtles. I'm in my final year at Epitech, after an exchange year at Korea University where I took courses in deep learning and computer vision.
 
